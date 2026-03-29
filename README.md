@@ -45,9 +45,9 @@ Valorizo:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mateusmartiinss0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mateusmartiinss0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula" />
 
 </div>
 
@@ -57,17 +57,16 @@ Valorizo:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dracula&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=mateusmartiinss0&theme=dracula&hide_border=false" />
 
 </div>
-
 ---
 
 # 🌐 Conecte-se comigo | Connect with me
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO" target="_blank">
+<a href="https://github.com/mateusmartiinss0" target="_blank">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
