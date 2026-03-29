@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre Mim | About Me
 
-Sou **estudante do \(3^\circ\) ano do curso técnico em Análise e Desenvolvimento de Sistemas** no ensino médio.
+Sou **estudante do 3 ano do curso técnico em Análise e Desenvolvimento de Sistemas** no ensino médio.
 
 Estou em constante aprendizado e busco desenvolver minhas habilidades em programação, lógica e criação de projetos práticos.
 
