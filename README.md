@@ -48,7 +48,6 @@ Valorizo:
 <img src="https://streak-stats.demolab.com?user=mateusmartiinss0&theme=dracula&hide_border=false" />
 
 </div>
----
 
 # 🌐 Conecte-se comigo | Connect with me
 
