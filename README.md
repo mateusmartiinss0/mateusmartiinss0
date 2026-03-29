@@ -50,16 +50,6 @@ Valorizo:
 </div>
 
 
-###
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mateusmartiinss0/mateusmartiinss0/output/pacman-contribution-graph-dark.svg">
-
-</div>
-
-
-
 # 🌐 Conecte-se comigo | Connect with me
 
 <div align="center">
