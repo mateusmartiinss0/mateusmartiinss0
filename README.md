@@ -41,10 +41,6 @@ Valorizo:
 
 ---
 
-
-
----
-
 # 📈 GitHub Streak
 
 <div align="center">
